@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Prithi
-- ![](https://komarev.com/ghpvc/?username=preethi0601&color=green)
 - 👀 I’m a full stack developer who's curious to learn and take on challenging problems.
 <h3>This is what I know so far ;) </h3>
 <p>
